@@ -29,13 +29,10 @@ ul#album-fotos li span {
 }
 
 ul#album-fotos li:hover {
-    -webkit-transition: all .4s ease-in;  
-    -moz-transition: all .4s ease-in; 
-    -ms-transition: all .4s ease-in; 
     -webkit-transform: scale(1.5);
     -moz-transform: scale(1.5);
     -ms-transform: scale(1.5);
- /*   transition: all 0.4s ease-in;  alternative */
+    transition: all 0.4s ease-in; 
 }
 
 ul#album-fotos li:hover span {
