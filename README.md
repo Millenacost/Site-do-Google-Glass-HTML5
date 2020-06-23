@@ -1,8 +1,7 @@
 <h1 align="center">Site do Google Glass</h1>
  
- <h1>
-    <img src="https://giphy.com/gifs/fqmmXJAVObpBAOsJld">
-  </h1>
+
+<img src="https://giphy.com/embed/fqmmXJAVObpBAOsJld"/>
 
 ## 🔖Sobre
 
