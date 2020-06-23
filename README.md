@@ -1,7 +1,7 @@
 <h1 align="center">Site do Google Glass</h1>
- ## 🔖Sobre
+ <h2>🔖Sobre</h2>
 
-O projeto foi criado com o curso "Curso en Video" com o intuito de colocar em prática o seguinte conteúdo:
+O projeto foi criado com o curso **Curso en Video** com o intuito de colocar em prática o seguinte conteúdo:
 
 -  HTML5
 -  CSS
